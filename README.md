@@ -217,4 +217,4 @@ Equalify is offered as a full free version, allowing users to access all feature
 Transform your Spotify music experience today! Download Equalify for free and unlock the full potential of your audio.
 
 ---
-**Last updated:** 2026-10-13 21:04:52 UTC
+**Last updated:** 2026-10-14 00:59:21 UTC
